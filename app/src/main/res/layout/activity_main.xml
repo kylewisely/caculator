@@ -30,6 +30,7 @@
         android:onClick="btn2Clicked"
         android:text="2" />
 
+   //dfghjk.
     <Button
         android:id="@+id/Btn3_id"
         android:layout_width="70dp"
